@@ -9,10 +9,11 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "@nuxtjs/axios": "^5.10.3",
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3",
-    "nuxt-buefy": "^0.4.4"
+    "nuxt-buefy": "^0.4.4",
+    "querystring": "^0.2.1"
   },
   "devDependencies": {}
 }
